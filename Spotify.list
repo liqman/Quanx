@@ -8,6 +8,7 @@
 # USER-AGENT: 2
 # TOTAL: 21
 HOST-SUFFIX,audio-ak-spotify-com.akamaized.net,🎵 Spotify
+HOST-SUFFIX,audio-ak-spotify-com.akamaized.net,🎵 Spotify
 HOST-SUFFIX,byspotify.com,🎵 Spotify
 HOST-SUFFIX,heads4-ak-spotify-com.akamaized.net,🎵 Spotify
 HOST-SUFFIX,pscdn.co,🎵 Spotify
@@ -23,8 +24,10 @@ HOST-SUFFIX,spotifycharts.com,🎵 Spotify
 HOST-SUFFIX,spotifycodes.com,🎵 Spotify
 HOST-SUFFIX,spotifyforbrands.com,🎵 Spotify
 HOST-SUFFIX,spotifyjobs.com,🎵 Spotify
+HOST-SUFFIX,spotifynewsroom.jp,🎵 Spotify
+HOST-SUFFIX,spotilocal.com,🎵 Spotify
+HOST-SUFFIX,tospotify.com,🎵 Spotify
 HOST-KEYWORD,-spotify-com,🎵 Spotify
 HOST-KEYWORD,spotify.com,🎵 Spotify
-USER-AGENT,*Spotify*,🎵 Spotify
 USER-AGENT,Spotify*,🎵 Spotify
 IP-CIDR,35.186.224.47/32,🎵 Spotify
