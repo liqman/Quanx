@@ -1,12 +1,13 @@
 # NAME: 🅱️ BiliBili
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-12-25 18:51:24
+# UPDATED: 2023-05-28 18:21:21
 # HOST: 52
-# HOST-SUFFIX: 59
+# HOST-SUFFIX: 60
 # IP-CIDR: 8
 # USER-AGENT: 4
-# TOTAL: 123
+# TOTAL: 124
+HOST,0gr4uqmtt8y41hcjsgrzdrc31.ourdvsss.com,🅱️ BiliBili
 HOST,0gr4uqmtt8y41hcjsgrzdrc31.ourdvsss.com,🅱️ BiliBili
 HOST,0gr4uqmtt8y41hcjsgrzdrc3s.ourdvsss.com,🅱️ BiliBili
 HOST,0gr4uqmtt8y41hcjsgrzdrc3z.ourdvsss.com,🅱️ BiliBili
@@ -103,6 +104,7 @@ HOST-SUFFIX,bilivideo.cn,🅱️ BiliBili
 HOST-SUFFIX,bilivideo.com,🅱️ BiliBili
 HOST-SUFFIX,bilivideo.net,🅱️ BiliBili
 HOST-SUFFIX,corari.com,🅱️ BiliBili
+HOST-SUFFIX,dreamcast.hk,🅱️ BiliBili
 HOST-SUFFIX,dyhgames.com,🅱️ BiliBili
 HOST-SUFFIX,hdslb.com,🅱️ BiliBili
 HOST-SUFFIX,hdslb.com.w.kunlunhuf.com,🅱️ BiliBili
@@ -117,7 +119,7 @@ HOST-SUFFIX,sharejoytech.com,🅱️ BiliBili
 HOST-SUFFIX,smtcdns.net,🅱️ BiliBili
 HOST-SUFFIX,upos-hz-mirrorakam.akamaized.net,🅱️ BiliBili
 HOST-SUFFIX,uposdash-302-bilivideo.yfcdn.net,🅱️ BiliBili
-HOST-SUFFIX,yo9.com,🅱️ BiliBili
+HOST-SUFFIX,yo9.com,BiliBili
 USER-AGENT,*bili*,🅱️ BiliBili
 USER-AGENT,Bilibili*,🅱️ BiliBili
 USER-AGENT,bili*,🅱️ BiliBili
